@@ -103,7 +103,7 @@ public class Test : MonoBehaviour {
 			randomIndex = Random.Range(0,4);
 		}
 		direction = randomIndex;
-		print ("randomIndex: "+randomIndex+"-direction: "+direction);
+//		print ("randomIndex: "+randomIndex+"-direction: "+direction);
 	}
 
 	bool[] GetAvailableDirections() {
