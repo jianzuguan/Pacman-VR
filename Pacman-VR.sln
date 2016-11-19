@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{464BF230-D542-5EEC-840D-CD0F33F6D5D5}") = "Pacman-VR", "Assembly-CSharp.csproj", "{8A75A681-8C20-2ADE-FD91-DB85A2766A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A75A681-8C20-2ADE-FD91-DB85A2766A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A75A681-8C20-2ADE-FD91-DB85A2766A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A75A681-8C20-2ADE-FD91-DB85A2766A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A75A681-8C20-2ADE-FD91-DB85A2766A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
